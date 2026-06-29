@@ -1,1 +1,2 @@
-{"name":"Larp","description":"Spoof badges, usernames, and account dates (local only)","authors":[{"name":"Larp Dev","id":"000000000000000000"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff"}}
+{"name":"Larp","description":"Spoof badges, usernames, and account dates (local only)","authors":[{"name":"Larp Dev","id":"000000000000000000"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff"},"hash":"566b8a37f41e2e0d5b5404c4e781e376e70d70d928fb446b742fdb20913d7572"}
+
