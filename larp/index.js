@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var LARP_UI_TAG = "v12.0.0";
+  var LARP_UI_TAG = "vboss";
 
   var React = vendetta.metro.common.React;
   var RN = vendetta.metro.common.ReactNative;
